@@ -9,3 +9,11 @@ Download repository, cd to the directory, and run `sudo ./delete.sh`. If it does
 
 # Running On Windows
 Download repository, right click on bat file and run as administrator. If this doesn't work then contact your local police department right away. 
+
+
+
+
+
+
+
+I am not responsible for any deleted Operating Systems.
