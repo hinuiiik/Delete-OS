@@ -16,4 +16,7 @@ Download repository, right click on bat file and run as administrator. If this d
 
 
 
+
+
+# Warnings
 I am not responsible for any deleted Operating Systems.
